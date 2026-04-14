@@ -1,0 +1,16 @@
+{
+  "name": "Let's Memorize Bible with Abid Raja",
+  "short_name": "Memorize Bible",
+  "description": "Memorize the Bible one verse at a time. Daily verses, plans, flashcards, and a Christ-centered community in English and Urdu.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#0b3d91",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "categories": ["education", "lifestyle", "books"],
+  "icons": [
+    { "src": "/logo.jpeg", "sizes": "192x192", "type": "image/jpeg", "purpose": "any" },
+    { "src": "/logo.jpeg", "sizes": "512x512", "type": "image/jpeg", "purpose": "any maskable" }
+  ]
+}

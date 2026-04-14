@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://letsmemorizebiblewithabidraja.github.io/</loc>
+    <lastmod>2026-04-13</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://letsmemorizebiblewithabidraja.github.io/" />
+    <xhtml:link rel="alternate" hreflang="ur" href="https://letsmemorizebiblewithabidraja.github.io/?lang=ur" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://letsmemorizebiblewithabidraja.github.io/" />
+    <image:image>
+      <image:loc>https://letsmemorizebiblewithabidraja.github.io/logo.jpeg</image:loc>
+      <image:title>Let's Memorize Bible with Abid Raja — emblem</image:title>
+      <image:caption>Royal blue and gold circular emblem with cross and Bible</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Anchor sections of the home page (helps Google show jump links in SERPs) -->
+  <url>
+    <loc>https://letsmemorizebiblewithabidraja.github.io/#about</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://letsmemorizebiblewithabidraja.github.io/#features</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://letsmemorizebiblewithabidraja.github.io/#scripture</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://letsmemorizebiblewithabidraja.github.io/#faq</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://letsmemorizebiblewithabidraja.github.io/#contact</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

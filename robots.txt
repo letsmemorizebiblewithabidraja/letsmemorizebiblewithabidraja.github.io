@@ -1,0 +1,23 @@
+# robots.txt for Let's Memorize Bible with Abid Raja
+# https://letsmemorizebiblewithabidraja.github.io/
+
+User-agent: *
+Allow: /
+Disallow: /dashboard/
+Disallow: /api/
+
+# Be polite to common AI crawlers but allow indexing
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /logo.jpeg
+Allow: /og-cover.jpg
+
+Sitemap: https://letsmemorizebiblewithabidraja.github.io/sitemap.xml

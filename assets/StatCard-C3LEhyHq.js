@@ -1,0 +1,6 @@
+import{c as n,j as e}from"./index-B5VguUxM.js";/**
+ * @license lucide-react v1.8.0 - ISC
+ *
+ * This source code is licensed under the ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const d=[["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}],["circle",{cx:"12",cy:"12",r:"6",key:"1vlfrh"}],["circle",{cx:"12",cy:"12",r:"2",key:"1c9p78"}]],o=n("target",d);function x({icon:r,label:s,value:c,hint:t,tint:i="primary"}){const a={primary:"bg-[#e0eaff] text-brand-primary",accent:"bg-[#fff9ed] text-brand-accent",green:"bg-emerald-50 text-emerald-700",rose:"bg-rose-50 text-rose-700"};return e.jsxs("div",{className:"bg-white rounded-xl border border-surface-border shadow-card p-5 hover:-translate-y-0.5 hover:shadow-lift transition-all",children:[e.jsx("div",{className:`inline-flex items-center justify-center w-11 h-11 rounded-full ${a[i]||a.primary}`,children:r&&e.jsx(r,{className:"w-5 h-5"})}),e.jsx("div",{className:"mt-4 text-[11px] tracking-widest uppercase text-ink-muted font-semibold",children:s}),e.jsx("div",{className:"mt-1 text-3xl font-bold text-brand-primary tabular-nums",children:c}),t&&e.jsx("div",{className:"mt-0.5 text-xs text-ink-muted",children:t})]})}export{x as S,o as T};
