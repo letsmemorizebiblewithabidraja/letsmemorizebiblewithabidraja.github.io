@@ -1,0 +1,1 @@
+import{a as c,r as u}from"./index-CInXszCa.js";import{s as i}from"./date-BjbCzQDL.js";function b(){const{user:r}=c(),[o,n]=u.useState([]),[a,s]=u.useState(!0);u.useEffect(()=>{if(!r){n([]),s(!1);return}return s(!0),i(r.uid,e=>{n(e),s(!1)},()=>s(!1))},[r]);const f=o.reduce((t,e)=>(t[e.verseId]=e,t),{});return{progress:o,byVerseId:f,loading:a}}export{b as u};

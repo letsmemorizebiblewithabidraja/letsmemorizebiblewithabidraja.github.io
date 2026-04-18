@@ -1,4 +1,4 @@
-import{c as l,a as i,r as a}from"./index-B5VguUxM.js";import{g as f,r as d}from"./SkeletonCard-CDH6QtLs.js";/**
+import{c as l,a as i,r as a}from"./index-CInXszCa.js";import{g as f,r as d}from"./SkeletonCard-BBG8LLkc.js";/**
  * @license lucide-react v1.8.0 - ISC
  *
  * This source code is licensed under the ISC license.
